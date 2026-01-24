@@ -1,6 +1,6 @@
 {
   "name": "Digital Thaw",
-  "short_name": "DigiThaw",
+  "short_name": "Digital Thaw",
   "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#0B1026",
@@ -21,4 +21,5 @@
       "purpose": "any"
     }
   ]
+
 }
